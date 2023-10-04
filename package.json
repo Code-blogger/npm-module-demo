@@ -12,6 +12,7 @@
   "author": "code-blogger",
   "license": "ISC",
   "dependencies": {
-    "colors": "^1.4.0"
+    "colors": "^1.4.0",
+    "colour": "^0.7.1"
   }
 }
