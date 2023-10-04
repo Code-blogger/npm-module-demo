@@ -1,0 +1,14 @@
+{
+  "name": "@code-blogger/npm-module-demo",
+  "version": "1.0.1",
+  "description": "My Name",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "name"
+  ],
+  "author": "code-blogger",
+  "license": "ISC"
+}
